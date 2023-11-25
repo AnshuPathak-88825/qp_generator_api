@@ -1,0 +1,1956 @@
+{
+  "easy": [
+    {
+      "question": "What is the speed of light?",
+      "category": "Physics",
+      "subcategory": "Waves",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the capital of France?",
+      "category": "Geography",
+      "subcategory": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "category": "Literature",
+      "subcategory": "Classic Literature",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "category": "Astronomy",
+      "subcategory": "Planets",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "category": "History",
+      "subcategory": "Maritime History",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "category": "Geography",
+      "subcategory": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "Who is known as the 'Father of Computer Science'?",
+      "category": "Computer Science",
+      "subcategory": "Pioneers",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "category": "Chemistry",
+      "subcategory": "Elements",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "Which planet is known as the 'Red Planet'?",
+      "category": "Astronomy",
+      "subcategory": "Planets",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "category": "Art",
+      "subcategory": "Paintings",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "What is the currency of Brazil?",
+      "category": "Geography",
+      "subcategory": "Currencies",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "category": "Literature",
+      "subcategory": "Modern Literature",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "category": "Biology",
+      "subcategory": "Cell Biology",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "In which year did the first moon landing occur?",
+      "category": "Space Exploration",
+      "subcategory": "Moon",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "Who is the author of the 'Harry Potter' series?",
+      "category": "Literature",
+      "subcategory": "Fantasy",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "category": "Geography",
+      "subcategory": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "category": "Physics",
+      "subcategory": "Theoretical Physics",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "What is the square root of 64?",
+      "category": "Mathematics",
+      "subcategory": "Basic Arithmetic",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "What is the main ingredient in guacamole?",
+      "category": "Cuisine",
+      "subcategory": "Food",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "Who painted 'Starry Night'?",
+      "category": "Art",
+      "subcategory": "Paintings",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "category": "Mathematics",
+      "subcategory": "Number Theory",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "Who is credited with the discovery of penicillin?",
+      "category": "Medicine",
+      "subcategory": "Antibiotics",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "What is the national animal of China?",
+      "category": "Geography",
+      "subcategory": "National Symbols",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "Who wrote 'The Great Gatsby'?",
+      "category": "Literature",
+      "subcategory": "Modern Literature",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "category": "Chemistry",
+      "subcategory": "Compounds",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "In which year did World War II end?",
+      "category": "History",
+      "subcategory": "World War II",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "Who is known as the 'Father of Modern Physics'?",
+      "category": "Physics",
+      "subcategory": "Pioneers",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "category": "Biology",
+      "subcategory": "Mammals",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "category": "Geography",
+      "subcategory": "Currencies",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "Who composed 'The Four Seasons'?",
+      "category": "Music",
+      "subcategory": "Classical Music",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "What is the freezing point of water in Celsius?",
+      "category": "Science",
+      "subcategory": "Temperature",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "Who wrote '1984'?",
+      "category": "Literature",
+      "subcategory": "Dystopian Fiction",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "category": "Geography",
+      "subcategory": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "Who is known as the 'Father of Geometry'?",
+      "category": "Mathematics",
+      "subcategory": "Geometry",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "What is the chemical symbol for oxygen?",
+      "category": "Chemistry",
+      "subcategory": "Elements",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "Which gas do plants absorb during photosynthesis?",
+      "category": "Biology",
+      "subcategory": "Photosynthesis",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "Who is the author of 'Pride and Prejudice'?",
+      "category": "Literature",
+      "subcategory": "Classic Literature",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "What is the currency of Mexico?",
+      "category": "Geography",
+      "subcategory": "Currencies",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "Who discovered the law of gravity?",
+      "category": "Physics",
+      "subcategory": "Classical Physics",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "What is the square of 9?",
+      "category": "Mathematics",
+      "subcategory": "Basic Arithmetic",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "What is the main ingredient in sushi?",
+      "category": "Cuisine",
+      "subcategory": "Food",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "Who painted 'The Starry Night'?",
+      "category": "Art",
+      "subcategory": "Paintings",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "What is the smallest natural number?",
+      "category": "Mathematics",
+      "subcategory": "Number Theory",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "Who is credited with the discovery of the structure of DNA?",
+      "category": "Biology",
+      "subcategory": "Genetics",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "What is the national bird of the United States?",
+      "category": "Geography",
+      "subcategory": "National Symbols",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "What is the circumference of a circle with a radius of 1 units?",
+      "category": "Mathematics",
+      "subcategory": "Geometry",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Which ocean is the largest in the world?",
+      "category": "Geography",
+      "subcategory": "Oceans",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "Who wrote the play 'Hamlet'?",
+      "category": "Literature",
+      "subcategory": "Classic Literature",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "What is the distance from the Earth to the Sun, on average?",
+      "category": "Astronomy",
+      "subcategory": "Space",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "In which year did the Berlin Wall fall?",
+      "category": "History",
+      "subcategory": "Cold War",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "What is the capital of South Korea?",
+      "category": "Geography",
+      "subcategory": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "Who is the inventor of the World Wide Web?",
+      "category": "Computer Science",
+      "subcategory": "Internet",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "What is the chemical symbol for silver?",
+      "category": "Chemistry",
+      "subcategory": "Elements",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "question": "Which planet is known as the 'Blue Planet'?",
+      "category": "Astronomy",
+      "subcategory": "Planets",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Who painted 'The Last Supper'?",
+      "category": "Art",
+      "subcategory": "Paintings",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "What is the currency of India?",
+      "category": "Geography",
+      "subcategory": "Currencies",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "Who wrote 'The Catcher in the Rye'?",
+      "category": "Literature",
+      "subcategory": "Modern Literature",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "What is the function of mitochondria in a cell?",
+      "category": "Biology",
+      "subcategory": "Cell Biology",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "In which year did the first human land on the Moon?",
+      "category": "Space Exploration",
+      "subcategory": "Moon",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Who is the author of the 'Lord of the Rings' trilogy?",
+      "category": "Literature",
+      "subcategory": "Fantasy",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "What is the capital of Germany?",
+      "category": "Geography",
+      "subcategory": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "Who formulated the theory of general relativity?",
+      "category": "Physics",
+      "subcategory": "Theoretical Physics",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "What is the cube root of 27?",
+      "category": "Mathematics",
+      "subcategory": "Basic Arithmetic",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "What is the main ingredient in hummus?",
+      "category": "Cuisine",
+      "subcategory": "Food",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "Who painted 'The Persistence of Memory'?",
+      "category": "Art",
+      "subcategory": "Paintings",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "What is the smallest composite number?",
+      "category": "Mathematics",
+      "subcategory": "Number Theory",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "Who discovered the vaccine for polio?",
+      "category": "Medicine",
+      "subcategory": "Vaccines",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "What is the national flower of Japan?",
+      "category": "Geography",
+      "subcategory": "National Symbols",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "Who wrote 'The Odyssey'?",
+      "category": "Literature",
+      "subcategory": "Classic Literature",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "What is the chemical symbol for nitrogen?",
+      "category": "Chemistry",
+      "subcategory": "Elements",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "In which year did the Cold War end?",
+      "category": "History",
+      "subcategory": "Cold War",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "Who is known as the 'Father of Quantum Mechanics'?",
+      "category": "Physics",
+      "subcategory": "Pioneers",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "What is the largest bird in the world?",
+      "category": "Biology",
+      "subcategory": "Birds",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "What is the currency of South Africa?",
+      "category": "Geography",
+      "subcategory": "Currencies",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "Who composed 'Symphony No. 9'?",
+      "category": "Music",
+      "subcategory": "Classical Music",
+      "difficulty": "Easy",
+      "marks": 3
+    },
+    {
+      "question": "At what temperature does water boil in Fahrenheit?",
+      "category": "Science",
+      "subcategory": "Temperature",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "Who wrote 'Brave New World'?",
+      "category": "Literature",
+      "subcategory": "Dystopian Fiction",
+      "difficulty": "Easy",
+      "marks": 3
+    }
+  ],
+  "medium": [
+    {
+      "question": "What is the Law of Conservation of Energy?",
+      "subject": "Physics",
+      "topic": "Energy Conservation",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Define photosynthesis and its importance in biology.",
+      "subject": "Biology",
+      "topic": "Photosynthesis",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the concept of supply and demand in economics.",
+      "subject": "Economics",
+      "topic": "Supply and Demand",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "How does the greenhouse effect contribute to climate change?",
+      "subject": "Environmental Science",
+      "topic": "Greenhouse Effect",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the main principles of democracy.",
+      "subject": "Political Science",
+      "topic": "Democracy",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "What is the Turing Test in the context of artificial intelligence?",
+      "subject": "Computer Science",
+      "topic": "Artificial Intelligence",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the process of mitosis in cell division.",
+      "subject": "Cell Biology",
+      "topic": "Mitosis",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Define the concept of cultural relativism in anthropology.",
+      "subject": "Anthropology",
+      "topic": "Cultural Relativism",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the impact of globalization on world economies.",
+      "subject": "International Relations",
+      "topic": "Globalization",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "How does the nervous system transmit signals in the human body?",
+      "subject": "Neuroscience",
+      "topic": "Nervous System",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the concept of inflation in macroeconomics.",
+      "subject": "Macroeconomics",
+      "topic": "Inflation",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the role of enzymes in biochemical reactions.",
+      "subject": "Biochemistry",
+      "topic": "Enzymes",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "What is the impact of social media on society?",
+      "subject": "Sociology",
+      "topic": "Social Media",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the principles of the scientific method.",
+      "subject": "Science",
+      "topic": "Scientific Method",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Define the concept of sustainable development.",
+      "subject": "Environmental Studies",
+      "topic": "Sustainable Development",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the major functions of the human respiratory system.",
+      "subject": "Human Anatomy",
+      "topic": "Respiratory System",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "What is the role of the United Nations in international diplomacy?",
+      "subject": "International Relations",
+      "topic": "United Nations",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the process of meiosis in cell division.",
+      "subject": "Genetics",
+      "topic": "Meiosis",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the causes and consequences of the Industrial Revolution.",
+      "subject": "History",
+      "topic": "Industrial Revolution",
+      "difficulty": "medium",
+      "marks": 1
+    },
+    {
+      "question": "What are the key principles of microeconomics?",
+      "subject": "Microeconomics",
+      "topic": "Microeconomic Principles",
+      "difficulty": "medium",
+      "marks": 1
+    },
+    {
+      "question": "Explain the concept of artificial intelligence and its applications.",
+      "subject": "Artificial Intelligence",
+      "topic": "AI Applications",
+      "difficulty": "medium",
+      "marks": 1
+    },
+    {
+      "question": "Discuss the impact of climate change on biodiversity.",
+      "subject": "Environmental Science",
+      "topic": "Climate Change",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Define the concept of social stratification in sociology.",
+      "subject": "Sociology",
+      "topic": "Social Stratification",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the principles of classical conditioning in psychology.",
+      "subject": "Psychology",
+      "topic": "Classical Conditioning",
+      "difficulty": "medium",
+      "marks": 1
+    },
+    {
+      "question": "What is the role of the World Health Organization in global health?",
+      "subject": "Public Health",
+      "topic": "World Health Organization",
+      "difficulty": "medium",
+      "marks": 1
+    },
+    {
+      "question": "Discuss the principles of game theory in economics.",
+      "subject": "Economics",
+      "topic": "Game Theory",
+      "difficulty": "medium",
+      "marks": 1
+    },
+    {
+      "question": "Explain the structure and function of DNA.",
+      "subject": "Genetics",
+      "topic": "DNA Structure and Function",
+      "difficulty": "medium",
+      "marks": 1
+    },
+    {
+      "question": "What are the key features of the human nervous system?",
+      "subject": "Neuroscience",
+      "topic": "Nervous System",
+      "difficulty": "medium",
+      "marks": 1
+    },
+    {
+      "question": "Discuss the impact of social media on interpersonal communication.",
+      "subject": "Communication Studies",
+      "topic": "Social Media and Communication",
+      "difficulty": "medium",
+      "marks": 1
+    },
+    {
+      "question": "Define the concept of sustainable agriculture.",
+      "subject": "Agriculture",
+      "topic": "Sustainable Agriculture",
+      "difficulty": "medium",
+      "marks": 1
+    },
+    {
+      "question": "Explain the process of continental drift in geology.",
+      "subject": "Geology",
+      "topic": "Continental Drift",
+      "difficulty": "medium",
+      "marks": 1
+    },
+    {
+      "question": "What are the main principles of political ideology?",
+      "subject": "Political Science",
+      "topic": "Political Ideology",
+      "difficulty": "medium",
+      "marks": 1
+    },
+    {
+      "question": "Discuss the impact of artificial intelligence on employment.",
+      "subject": "Labor Economics",
+      "topic": "AI and Employment",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "question": "Explain the process of protein synthesis in cells.",
+      "subject": "Cell Biology",
+      "topic": "Protein Synthesis",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "question": "What is the role of the International Monetary Fund in global finance?",
+      "subject": "International Finance",
+      "topic": "IMF",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "question": "Discuss the principles of quantum mechanics in physics.",
+      "subject": "Physics",
+      "topic": "Quantum Mechanics",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "question": "Explain the concept of cultural appropriation in anthropology.",
+      "subject": "Anthropology",
+      "topic": "Cultural Appropriation",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "question": "What are the main causes of air pollution?",
+      "subject": "Environmental Science",
+      "topic": "Air Pollution",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "question": "Define the concept of socialization in sociology.",
+      "subject": "Sociology",
+      "topic": "Socialization",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "question": "Explain the principles of operant conditioning in psychology.",
+      "subject": "Psychology",
+      "topic": "Operant Conditioning",
+      "difficulty": "medium",
+      "marks": 2
+    },
+    {
+      "question": "What is the role of the World Trade Organization in international trade?",
+      "subject": "International Trade",
+      "topic": "WTO",
+      "difficulty": "medium",
+      "marks": 3
+    },
+    {
+      "question": "Discuss the principles of behavioral economics.",
+      "subject": "Economics",
+      "topic": "Behavioral Economics",
+      "difficulty": "medium",
+      "marks": 3
+    },
+    {
+      "question": "Explain the structure and function of RNA.",
+      "subject": "Genetics",
+      "topic": "RNA Structure and Function",
+      "difficulty": "medium",
+      "marks": 3
+    },
+    {
+      "question": "What are the key functions of the endocrine system?",
+      "subject": "Endocrinology",
+      "topic": "Endocrine System",
+      "difficulty": "medium",
+      "marks": 3
+    },
+    {
+      "question": "Discuss the impact of media on public opinion.",
+      "subject": "Media Studies",
+      "topic": "Media and Public Opinion",
+      "difficulty": "medium",
+      "marks": 3
+    },
+    {
+      "question": "Define the concept of sustainable energy.",
+      "subject": "Energy Studies",
+      "topic": "Sustainable Energy",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the process of plate tectonics in geology.",
+      "subject": "Geology",
+      "topic": "Plate Tectonics",
+      "difficulty": "medium",
+      "marks": 4
+    },
+    {
+      "question": "What are the main principles of feminist theory?",
+      "subject": "Gender Studies",
+      "topic": "Feminist Theory",
+      "difficulty": "medium",
+      "marks": 4
+    },
+    {
+      "question": "Discuss the ethical implications of artificial intelligence.",
+      "subject": "Ethics",
+      "topic": "AI Ethics",
+      "difficulty": "medium",
+      "marks": 4
+    },
+    {
+      "question": "Explain the concept of cellular respiration in biology.",
+      "subject": "Biology",
+      "topic": "Cellular Respiration",
+      "difficulty": "medium",
+      "marks": 4
+    },
+    {
+      "question": "What is the role of the United Nations Security Council?",
+      "subject": "International Relations",
+      "topic": "UN Security Council",
+      "difficulty": "medium",
+      "marks": 4
+    },
+    {
+      "question": "Discuss the principles of classical economics.",
+      "subject": "Economics",
+      "topic": "Classical Economics",
+      "difficulty": "medium",
+      "marks": 4
+    },
+    {
+      "question": "What is the theory of relativity and who proposed it?",
+      "subject": "Physics",
+      "topic": "Relativity",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the process of photosynthesis in plants.",
+      "subject": "Biology",
+      "topic": "Photosynthesis",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the principles of market equilibrium in economics.",
+      "subject": "Economics",
+      "topic": "Market Equilibrium",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "What are the major sources of water pollution?",
+      "subject": "Environmental Science",
+      "topic": "Water Pollution",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the concept of political ideology.",
+      "subject": "Political Science",
+      "topic": "Political Ideology",
+      "difficulty": "medium",
+      "marks": 10
+    },
+    {
+      "question": "Define machine learning and its applications in computer science.",
+      "subject": "Computer Science",
+      "topic": "Machine Learning",
+      "difficulty": "medium",
+      "marks": 10
+    },
+    {
+      "question": "How does natural selection drive evolution?",
+      "subject": "Biology",
+      "topic": "Evolution",
+      "difficulty": "medium",
+      "marks": 10
+    },
+    {
+      "question": "Discuss the impact of globalization on cultural diversity.",
+      "subject": "Sociology",
+      "topic": "Globalization and Culture",
+      "difficulty": "medium",
+      "marks": 10
+    },
+    {
+      "question": "Explain the concept of market failure in economics.",
+      "subject": "Economics",
+      "topic": "Market Failure",
+      "difficulty": "medium",
+      "marks": 10
+    },
+    {
+      "question": "What is the structure of the Earth's atmosphere?",
+      "subject": "Geology",
+      "topic": "Atmosphere Structure",
+      "difficulty": "medium",
+      "marks": 10
+    },
+    {
+      "question": "Discuss the role of neurotransmitters in the human brain.",
+      "subject": "Neuroscience",
+      "topic": "Neurotransmitters",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the impact of inflation on purchasing power.",
+      "subject": "Macroeconomics",
+      "topic": "Inflation and Purchasing Power",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "What is the structure of an atom?",
+      "subject": "Chemistry",
+      "topic": "Atomic Structure",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the principles of classical conditioning in psychology.",
+      "subject": "Psychology",
+      "topic": "Classical Conditioning",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the concept of cultural relativism in anthropology.",
+      "subject": "Anthropology",
+      "topic": "Cultural Relativism",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Define sustainable development and its goals.",
+      "subject": "Environmental Studies",
+      "topic": "Sustainable Development",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the functions of the human circulatory system.",
+      "subject": "Anatomy",
+      "topic": "Circulatory System",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "What is the role of the United Nations in peacekeeping?",
+      "subject": "International Relations",
+      "topic": "UN Peacekeeping",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the process of genetic recombination in meiosis.",
+      "subject": "Genetics",
+      "topic": "Genetic Recombination",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the impact of the Industrial Revolution on society.",
+      "subject": "History",
+      "topic": "Industrial Revolution",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Define the concept of opportunity cost in economics.",
+      "subject": "Economics",
+      "topic": "Opportunity Cost",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the principles of artificial neural networks.",
+      "subject": "Computer Science",
+      "topic": "Neural Networks",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the effects of climate change on ecosystems.",
+      "subject": "Environmental Science",
+      "topic": "Climate Change and Ecosystems",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Define social stratification and its impact on societies.",
+      "subject": "Sociology",
+      "topic": "Social Stratification",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the principles of operant conditioning in psychology.",
+      "subject": "Psychology",
+      "topic": "Operant Conditioning",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "What is the role of the World Health Organization in global health?",
+      "subject": "Public Health",
+      "topic": "World Health Organization",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the impact of trade barriers on international commerce.",
+      "subject": "International Trade",
+      "topic": "Trade Barriers",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the process of protein synthesis in cells.",
+      "subject": "Biology",
+      "topic": "Protein Synthesis",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "What are the key principles of the endocrine system?",
+      "subject": "Endocrinology",
+      "topic": "Endocrine System",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the role of mass media in shaping public opinion.",
+      "subject": "Media Studies",
+      "topic": "Mass Media and Public Opinion",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Define the concept of sustainable architecture.",
+      "subject": "Architecture",
+      "topic": "Sustainable Architecture",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the process of continental drift in geology.",
+      "subject": "Geology",
+      "topic": "Continental Drift",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the major themes of postmodernism in literature.",
+      "subject": "Literature",
+      "topic": "Postmodernism",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the ethical implications of artificial intelligence.",
+      "subject": "Ethics",
+      "topic": "AI Ethics",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "What is the role of the mitochondria in cellular respiration?",
+      "subject": "Cell Biology",
+      "topic": "Mitochondria and Respiration",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the principles of conflict resolution in international relations.",
+      "subject": "International Relations",
+      "topic": "Conflict Resolution",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Define the concept of market structure in economics.",
+      "subject": "Economics",
+      "topic": "Market Structure",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the impact of artificial intelligence on job automation.",
+      "subject": "Labor Economics",
+      "topic": "AI and Job Automation",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the functions of the Golgi apparatus in cells.",
+      "subject": "Cell Biology",
+      "topic": "Golgi Apparatus",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "What is the role of the International Monetary Fund in global finance?",
+      "subject": "International Finance",
+      "topic": "IMF",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the principles of fluid dynamics in physics.",
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Define the concept of cultural assimilation in anthropology.",
+      "subject": "Anthropology",
+      "topic": "Cultural Assimilation",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "What are the main causes of air pollution?",
+      "subject": "Environmental Science",
+      "topic": "Air Pollution",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the principles of social change in sociology.",
+      "subject": "Sociology",
+      "topic": "Social Change",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the principles of memory formation in psychology.",
+      "subject": "Psychology",
+      "topic": "Memory Formation",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "What is the role of the World Trade Organization in international trade?",
+      "subject": "International Trade",
+      "topic": "WTO",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the principles of behavioral economics.",
+      "subject": "Economics",
+      "topic": "Behavioral Economics",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the structure and function of RNA.",
+      "subject": "Genetics",
+      "topic": "RNA Structure and Function",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "What are the key functions of the human nervous system?",
+      "subject": "Neuroscience",
+      "topic": "Nervous System Functions",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the impact of social media on interpersonal relationships.",
+      "subject": "Communication Studies",
+      "topic": "Social Media and Relationships",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Define the concept of sustainable farming.",
+      "subject": "Agriculture",
+      "topic": "Sustainable Farming",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the process of plate tectonics in geology.",
+      "subject": "Geology",
+      "topic": "Plate Tectonics",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "What are the main principles of feminist theory?",
+      "subject": "Gender Studies",
+      "topic": "Feminist Theory",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the ethical considerations in genetic engineering.",
+      "subject": "Biotechnology",
+      "topic": "Genetic Engineering Ethics",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the process of glycolysis in cellular respiration.",
+      "subject": "Biology",
+      "topic": "Glycolysis",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "What is the role of the United Nations Security Council?",
+      "subject": "International Relations",
+      "topic": "UN Security Council",
+      "difficulty": "medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the principles of Keynesian economics.",
+      "subject": "Economics",
+      "topic": "Keynesian Economics",
+      "difficulty": "medium",
+      "marks": 5
+    }
+  ],
+  "hard": [
+    {
+      "question": "Explain the mathematical basis of quantum mechanics.",
+      "subject": "Physics",
+      "topic": "Quantum Mechanics",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "question": "Discuss the molecular mechanisms of gene regulation in eukaryotes.",
+      "subject": "Genetics",
+      "topic": "Gene Regulation",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "question": "Examine the economic implications of globalization on developing countries.",
+      "subject": "Economics",
+      "topic": "Globalization",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "question": "Analyze the role of international law in addressing global environmental issues.",
+      "subject": "Environmental Law",
+      "topic": "International Environmental Law",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "question": "Evaluate the impact of political ideologies on the formulation of foreign policy.",
+      "subject": "Political Science",
+      "topic": "Foreign Policy",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "question": "Examine the ethical considerations of using artificial intelligence in healthcare.",
+      "subject": "Medical Ethics",
+      "topic": "AI in Healthcare Ethics",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "question": "Discuss the neurobiological basis of consciousness in the human brain.",
+      "subject": "Neuroscience",
+      "topic": "Consciousness",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "question": "Analyze the impact of colonialism on indigenous cultures in the 20th century.",
+      "subject": "History",
+      "topic": "Colonialism",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "question": "Examine the economic theories behind income inequality in modern societies.",
+      "subject": "Economics",
+      "topic": "Income Inequality",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "question": "Critically evaluate the role of the United Nations in preventing global conflicts.",
+      "subject": "International Relations",
+      "topic": "UN Peacekeeping",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "question": "Discuss the ethical implications of genetic engineering in agriculture.",
+      "subject": "Agricultural Ethics",
+      "topic": "Genetic Engineering in Agriculture",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "question": "Examine the psychological impact of long-term space travel on astronauts.",
+      "subject": "Space Psychology",
+      "topic": "Astronaut Mental Health",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "question": "Analyze the historical development and impact of the World Bank on global economies.",
+      "subject": "International Finance",
+      "topic": "World Bank",
+      "difficulty": "hard",
+      "marks": 2
+    },
+    {
+      "question": "Critically assess the ethical dilemmas in human cloning research.",
+      "subject": "Bioethics",
+      "topic": "Human Cloning Ethics",
+      "difficulty": "hard",
+      "marks": 3
+    },
+    {
+      "question": "Discuss the sociopolitical factors influencing the spread of infectious diseases.",
+      "subject": "Public Health",
+      "topic": "Infectious Disease Spread",
+      "difficulty": "hard",
+      "marks": 3
+    },
+    {
+      "question": "Analyze the impact of artificial intelligence on the future of work and employment.",
+      "subject": "Labor Economics",
+      "topic": "AI and Employment",
+      "difficulty": "hard",
+      "marks": 3
+    },
+    {
+      "question": "Examine the role of mitochondria in cellular energy production and aging.",
+      "subject": "Cell Biology",
+      "topic": "Mitochondria Function",
+      "difficulty": "hard",
+      "marks": 3
+    },
+    {
+      "question": "Critically evaluate the effectiveness of international climate change agreements.",
+      "subject": "Environmental Policy",
+      "topic": "Climate Change Agreements",
+      "difficulty": "hard",
+      "marks": 3
+    },
+    {
+      "question": "Discuss the ethical considerations of using CRISPR technology in human gene editing.",
+      "subject": "Bioethics",
+      "topic": "CRISPR Ethics",
+      "difficulty": "hard",
+      "marks": 3
+    },
+    {
+      "question": "Analyze the geopolitical implications of water scarcity in the 21st century.",
+      "subject": "Geopolitics",
+      "topic": "Water Scarcity",
+      "difficulty": "hard",
+      "marks": 1
+    },
+    {
+      "question": "Examine the impact of artificial intelligence on the legal profession.",
+      "subject": "Law and Technology",
+      "topic": "AI in Law",
+      "difficulty": "hard",
+      "marks": 1
+    },
+    {
+      "question": "Critically assess the role of women in political leadership throughout history.",
+      "subject": "Gender Studies",
+      "topic": "Women in Politics",
+      "difficulty": "hard",
+      "marks": 1
+    },
+    {
+      "question": "Analyze the ethical considerations of using autonomous weapons in warfare.",
+      "subject": "Ethics of War",
+      "topic": "Autonomous Weapons Ethics",
+      "difficulty": "hard",
+      "marks": 1
+    },
+    {
+      "question": "Examine the neurobiological basis of addiction and its implications for treatment.",
+      "subject": "Neuroscience",
+      "topic": "Addiction Neuroscience",
+      "difficulty": "hard",
+      "marks": 1
+    },
+    {
+      "question": "Critically assess the economic impact of the Fourth Industrial Revolution.",
+      "subject": "Economics",
+      "topic": "Fourth Industrial Revolution",
+      "difficulty": "hard",
+      "marks": 1
+    },
+    {
+      "question": "Discuss the role of women in the development of modern art movements.",
+      "subject": "Art History",
+      "topic": "Women in Art",
+      "difficulty": "hard",
+      "marks": 1
+    },
+    {
+      "question": "Analyze the social and cultural factors influencing mental health stigma.",
+      "subject": "Psychology",
+      "topic": "Mental Health Stigma",
+      "difficulty": "hard",
+      "marks": 1
+    },
+    {
+      "question": "Examine the impact of social media on political polarization in contemporary society.",
+      "subject": "Political Science",
+      "topic": "Social Media and Politics",
+      "difficulty": "hard",
+      "marks": 1
+    },
+    {
+      "question": "Critically assess the ethical implications of human genetic modification.",
+      "subject": "Bioethics",
+      "topic": "Genetic Modification Ethics",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Analyze the historical development and impact of artificial intelligence in filmmaking.",
+      "subject": "Film Studies",
+      "topic": "AI in Film",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Discuss the role of cultural diversity in shaping global business strategies.",
+      "subject": "Business Management",
+      "topic": "Cultural Diversity in Business",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Examine the ethical considerations of using gene editing for enhancing human intelligence.",
+      "subject": "Bioethics",
+      "topic": "Gene Editing for Intelligence",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Critically assess the impact of climate change on global migration patterns.",
+      "subject": "Environmental Studies",
+      "topic": "Climate Change and Migration",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Analyze the economic theories behind the causes and consequences of financial crises.",
+      "subject": "Economics",
+      "topic": "Financial Crises",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Discuss the ethical implications of using artificial intelligence in criminal justice.",
+      "subject": "Criminal Justice Ethics",
+      "topic": "AI in Criminal Justice Ethics",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Examine the impact of social media on the perception and treatment of mental health.",
+      "subject": "Psychology",
+      "topic": "Social Media and Mental Health",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Critically assess the role of international organizations in addressing global human rights issues.",
+      "subject": "Human Rights",
+      "topic": "International Organizations and Human Rights",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Analyze the historical development and impact of the European Union on member countries.",
+      "subject": "European Studies",
+      "topic": "European Union",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Discuss the ethical considerations of using gene editing for enhancing physical abilities.",
+      "subject": "Bioethics",
+      "topic": "Gene Editing for Physical Enhancement",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Examine the social and cultural implications of the rise of virtual reality technology.",
+      "subject": "Sociology",
+      "topic": "Virtual Reality and Society",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Critically assess the economic impact of the COVID-19 pandemic on global economies.",
+      "subject": "Economics",
+      "topic": "COVID-19 Economic Impact",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Analyze the historical and cultural factors influencing the development of jazz music.",
+      "subject": "Music History",
+      "topic": "Jazz Music",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Discuss the ethical implications of using artificial intelligence in the education system.",
+      "subject": "Education Ethics",
+      "topic": "AI in Education Ethics",
+      "difficulty": "hard",
+      "marks": 20
+    },
+    {
+      "question": "Examine the impact of urbanization on biodiversity and ecosystems.",
+      "subject": "Environmental Science",
+      "topic": "Urbanization and Biodiversity",
+      "difficulty": "hard",
+      "marks": 20
+    },
+    {
+      "question": "Critically assess the economic theories behind the concept of universal basic income.",
+      "subject": "Economics",
+      "topic": "Universal Basic Income",
+      "difficulty": "hard",
+      "marks": 20
+    },
+    {
+      "question": "Analyze the historical development and impact of the United Nations Educational, Scientific and Cultural Organization (UNESCO).",
+      "subject": "International Organizations",
+      "topic": "UNESCO",
+      "difficulty": "hard",
+      "marks": 20
+    },
+    {
+      "question": "Examine the ethical implications of using artificial intelligence in autonomous vehicles.",
+      "subject": "Ethics",
+      "topic": "AI in Autonomous Vehicles Ethics",
+      "difficulty": "hard",
+      "marks": 20
+    },
+    {
+      "question": "Analyze the historical development and impact of the European Central Bank on the Eurozone economy.",
+      "subject": "European Economics",
+      "topic": "European Central Bank",
+      "difficulty": "hard",
+      "marks": 20
+    },
+    {
+      "question": "Discuss the neuroethical considerations of brain-computer interface technology.",
+      "subject": "Neuroethics",
+      "topic": "Brain-Computer Interface Ethics",
+      "difficulty": "hard",
+      "marks": 20
+    },
+    {
+      "question": "Critically assess the economic impact of the Green Revolution on global agriculture.",
+      "subject": "Agricultural Economics",
+      "topic": "Green Revolution",
+      "difficulty": "hard",
+      "marks": 20
+    },
+    {
+      "question": "Analyze the ethical considerations of using nanotechnology in medical applications.",
+      "subject": "Medical Ethics",
+      "topic": "Nanotechnology in Medicine Ethics",
+      "difficulty": "hard",
+      "marks": 20
+    },
+    {
+      "question": "Examine the impact of artificial intelligence on the future of cybersecurity.",
+      "subject": "Cybersecurity",
+      "topic": "AI in Cybersecurity",
+      "difficulty": "hard",
+      "marks": 20
+    },
+    {
+      "question": "Discuss the sociopolitical factors influencing the spread and impact of misinformation in the digital age.",
+      "subject": "Media Studies",
+      "topic": "Misinformation and Society",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Critically assess the role of women in shaping scientific advancements throughout history.",
+      "subject": "History of Science",
+      "topic": "Women in Science",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Analyze the economic consequences of prolonged conflicts on developing nations.",
+      "subject": "Economics",
+      "topic": "Economic Impact of Conflicts",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Examine the ethical considerations of using artificial intelligence in criminal profiling.",
+      "subject": "Criminal Justice Ethics",
+      "topic": "AI in Criminal Profiling Ethics",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Discuss the historical development and impact of feminist movements on global societies.",
+      "subject": "Gender Studies",
+      "topic": "Feminist Movements",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Critically assess the economic theories behind the concept of the resource curse in natural resource-rich countries.",
+      "subject": "Economics",
+      "topic": "Resource Curse",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Analyze the ethical considerations of using gene editing for the enhancement of physical and cognitive abilities.",
+      "subject": "Bioethics",
+      "topic": "Gene Editing for Enhancement Ethics",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Examine the impact of artificial intelligence on the field of medical diagnostics.",
+      "subject": "Medicine",
+      "topic": "AI in Medical Diagnostics",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Discuss the sociocultural factors influencing the emergence and spread of new religious movements.",
+      "subject": "Religious Studies",
+      "topic": "New Religious Movements",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Critically assess the economic impact of the Belt and Road Initiative on participating countries.",
+      "subject": "International Relations",
+      "topic": "Belt and Road Initiative",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Analyze the historical and cultural factors influencing the development of classical music in different regions.",
+      "subject": "Music History",
+      "topic": "Classical Music Development",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Examine the ethical implications of using artificial intelligence in the creation of deepfake content.",
+      "subject": "Media Ethics",
+      "topic": "AI in Deepfake Creation Ethics",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Discuss the geopolitical implications of the Arctic region becoming more accessible due to climate change.",
+      "subject": "Geopolitics",
+      "topic": "Arctic Geopolitics",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Critically assess the role of corporations in addressing environmental sustainability challenges.",
+      "subject": "Business Ethics",
+      "topic": "Corporate Responsibility for Sustainability",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Analyze the economic theories behind the impact of automation on employment and income inequality.",
+      "subject": "Economics",
+      "topic": "Automation and Income Inequality",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Examine the neuroethical considerations of using neuroenhancement technologies for cognitive enhancement.",
+      "subject": "Neuroethics",
+      "topic": "Neuroenhancement Ethics",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Discuss the sociocultural factors influencing the portrayal of mental health in popular media.",
+      "subject": "Psychology",
+      "topic": "Mental Health in Media",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Critically assess the economic impact of the global decline in biodiversity.",
+      "subject": "Environmental Economics",
+      "topic": "Biodiversity Decline Economic Impact",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Analyze the historical development and impact of the World Health Organization on global public health.",
+      "subject": "Public Health",
+      "topic": "World Health Organization",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Examine the ethical considerations of using artificial intelligence in the creation of autonomous lethal weapons.",
+      "subject": "Ethics of War",
+      "topic": "AI in Autonomous Lethal Weapons Ethics",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Discuss the sociopolitical factors influencing the development and spread of cyber warfare capabilities.",
+      "subject": "Cybersecurity",
+      "topic": "Cyber Warfare",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Critically assess the economic impact of the gig economy on labor markets and worker rights.",
+      "subject": "Labor Economics",
+      "topic": "Gig Economy Economic Impact",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Analyze the historical and cultural factors influencing the development of contemporary dance as an art form.",
+      "subject": "Dance Studies",
+      "topic": "Contemporary Dance",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Examine the ethical considerations of using artificial intelligence in the criminal justice system for predictive policing.",
+      "subject": "Criminal Justice Ethics",
+      "topic": "AI in Predictive Policing Ethics",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Discuss the sociocultural factors influencing the perception and treatment of addiction in different societies.",
+      "subject": "Addiction Studies",
+      "topic": "Addiction Perception and Treatment",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Critically assess the economic impact of the global shift towards renewable energy sources.",
+      "subject": "Energy Economics",
+      "topic": "Renewable Energy Economic Impact",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Analyze the historical development and impact of artificial intelligence in the field of robotics.",
+      "subject": "Robotics",
+      "topic": "AI in Robotics",
+      "difficulty": "hard",
+      "marks": 10
+    },
+    {
+      "question": "Examine the ethical considerations of using gene editing for the creation of designer babies.",
+      "subject": "Bioethics",
+      "topic": "Gene Editing for Designer Babies Ethics",
+      "difficulty": "hard",
+      "marks": 15
+    },
+    {
+      "question": "Discuss the sociopolitical factors influencing the development and spread of authoritarian regimes in the 21st century.",
+      "subject": "Political Science",
+      "topic": "Authoritarian Regimes",
+      "difficulty": "hard",
+      "marks": 15
+    },
+    {
+      "question": "Critically assess the economic theories behind the concept of a universal basic income as a social policy.",
+      "subject": "Economics",
+      "topic": "Universal Basic Income Economic Theories",
+      "difficulty": "hard",
+      "marks": 15
+    },
+    {
+      "question": "Analyze the historical and cultural factors influencing the development of science fiction literature.",
+      "subject": "Literary Studies",
+      "topic": "Science Fiction Literature",
+      "difficulty": "hard",
+      "marks": 15
+    },
+    {
+      "question": "Examine the ethical considerations of using artificial intelligence in the creation of virtual influencers.",
+      "subject": "Media Ethics",
+      "topic": "AI in Virtual Influencers Ethics",
+      "difficulty": "hard",
+      "marks": 15
+    },
+    {
+      "question": "Discuss the sociocultural factors influencing the development and spread of anti-vaccine movements.",
+      "subject": "Public Health",
+      "topic": "Anti-Vaccine Movements",
+      "difficulty": "hard",
+      "marks": 15
+    },
+    {
+      "question": "Critically assess the economic impact of the Fourth Industrial Revolution on global labor markets.",
+      "subject": "Labor Economics",
+      "topic": "Fourth Industrial Revolution Economic Impact",
+      "difficulty": "hard",
+      "marks": 15
+    },
+    {
+      "question": "Analyze the historical and cultural factors influencing the development of punk rock music.",
+      "subject": "Music History",
+      "topic": "Punk Rock Music",
+      "difficulty": "hard",
+      "marks": 15
+    },
+    {
+      "question": "Examine the ethical considerations of using artificial intelligence in the creation of deep learning models for personalized advertising.",
+      "subject": "Media Ethics",
+      "topic": "AI in Personalized Advertising Ethics",
+      "difficulty": "hard",
+      "marks": 15
+    },
+    {
+      "question": "Discuss the sociopolitical factors influencing the development and spread of secessionist movements in contemporary geopolitics.",
+      "subject": "Geopolitics",
+      "topic": "Secessionist Movements",
+      "difficulty": "hard",
+      "marks": 15
+    }
+  ],
+  "random": [
+    {
+      "question": "Critically assess the economic theories behind the concept of a circular economy.",
+      "subject": "Economics",
+      "topic": "Circular Economy Economic Theories",
+      "difficulty": "Easy",
+      "marks": 15
+    },
+    {
+      "question": "Analyze the historical and cultural factors influencing the development of the film noir genre.",
+      "subject": "Film Studies",
+      "topic": "Film Noir",
+      "difficulty": "medium",
+      "marks": 15
+    },
+    {
+      "question": "Examine the ethical considerations of using artificial intelligence in the development of autonomous military drones.",
+      "subject": "Ethics of War",
+      "topic": "AI in Autonomous Military Drones Ethics",
+      "difficulty": "hard",
+      "marks": 15
+    }
+  ]
+}
