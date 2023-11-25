@@ -2,7 +2,9 @@
 # Quick Setup Guide for Question Paper Generator API
 ## 1. Clone the Repository
 `git clone https://github.com/AnshuPathak-88825/qp_generator_api
-cd qp_generator_api/`
+`
+### then
+`cd qp_generator_api/`
 
 ## 2. Install Dependencies
 `npm install`
